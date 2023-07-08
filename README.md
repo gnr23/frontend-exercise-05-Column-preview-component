@@ -10,8 +10,6 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Links](#links)
   - [What I learned](#what-i-learned)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -37,7 +35,6 @@ Users should be able to:
 HTML, CSS
 VS code
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -57,3 +54,7 @@ max-width: 900px;
 margin:auto;
     }
 
+<<<<<<< HEAD
+=======
+I learned also 
+>>>>>>> 3e7a2500c969aa7224a01a3d9c88f43de4957013
