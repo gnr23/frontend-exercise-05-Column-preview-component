@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [NETLIFY URL](https://3-column-preview-card-component-gnr23.netlify.app/)
+- Live Site URL: [GITHUB URL](https://github.com/gnr23/frontend-exercise-05-Column-preview-component)
 
 
 ### Built with
@@ -57,4 +57,3 @@ max-width: 900px;
 margin:auto;
     }
 
-I learned also 
