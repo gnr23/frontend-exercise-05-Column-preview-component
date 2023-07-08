@@ -53,8 +53,3 @@ e.g.
 max-width: 900px;
 margin:auto;
     }
-
-<<<<<<< HEAD
-=======
-I learned also 
->>>>>>> 3e7a2500c969aa7224a01a3d9c88f43de4957013
